@@ -35,7 +35,20 @@ $dia= [
 
 ];
 var_dump($dia["univesitas"],["jurusan"]);
- 
+
+$nama = [];
+
+if ($nama) {
+  $nama = $indentitas ;
+  return $indentitas;
+
+
+}
+echo "Masukkan Nama Mahasiswa: ";
+$indentitas = readline();
+
+
 
 ?>
+
 
